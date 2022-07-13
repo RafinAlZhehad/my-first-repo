@@ -1,5 +1,13 @@
 h1{
     color: antiquewhite;
-    background-color: aqua;
+    background-color: chartreuse;
     
+}
+h2{
+    color: coral;
+    background-color: bisque;
+}
+h3{
+    color: black;
+    background-color: burlywood;
 }
